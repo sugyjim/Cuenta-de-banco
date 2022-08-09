@@ -60,6 +60,8 @@ public class metodos {
          public void mostrar(){
 
              System.out.println("el titular es:"+ct1.getTitular()+" "+"ingresado:"+" "+ct1.getCantidad()+" "+ "retirado:"+" "+ct1.getRetiro()+" "+"su aldo es:"+saldoActual());
+
+             System.out.println("agregando un mensaje desde  intelilli");
          }
 
      }
